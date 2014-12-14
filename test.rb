@@ -2,6 +2,7 @@ puts "start"
 
 $stdout.sync=true
 
+#ok
 
 loop do
   puts "moikka"
