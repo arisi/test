@@ -3,8 +3,10 @@ puts "start"
 $stdout.sync=true
 
 #ok
-
+cnt=0
 loop do
-  puts "moikka"
+  puts "moikka #{cnt}"
   sleep 1
+  cnt+=1
+  break if cnt>=10
 end
