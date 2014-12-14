@@ -5,8 +5,6 @@ $stdout.sync=true
 #jee
 
 
-#xxx
-
 
 loop do
   puts "moikka"
