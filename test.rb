@@ -2,7 +2,7 @@ puts "start"
 
 $stdout.sync=true
 
-sss
+
 
 #ok
 cnt=0
