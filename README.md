@@ -1,8 +1,0 @@
-test
-==========
-
-OK!!
-xxx
-
-llllZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-THIS WORKS!xxxx
