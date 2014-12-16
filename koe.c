@@ -2,6 +2,8 @@
 
 #include "jee.h" 
 
+
+=
 int x=12;
 int main() {
   int u=0;
